@@ -1,0 +1,1 @@
+# alpine-firefox-kiosk-script
